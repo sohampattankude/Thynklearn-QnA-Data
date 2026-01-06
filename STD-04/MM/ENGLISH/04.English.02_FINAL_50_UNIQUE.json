@@ -1,0 +1,1411 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.02",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Circles"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What shape has no corners?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Triangle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rectangle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Circle"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which object is circular in shape?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Coin",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Box",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coin"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do we call the distance around a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circumference",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Radius",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Diameter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Side",
+          "is_correct": false
+        }
+      ],
+      "answer": "Circumference"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What do we call the distance from the center to the edge of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Radius",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Diameter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Circumference",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Corner",
+          "is_correct": false
+        }
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do we call a line that passes through the center of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diameter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Radius",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arc",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Side",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diameter"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which shape looks the same from all sides?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Rectangle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Triangle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Square",
+          "is_correct": false
+        }
+      ],
+      "answer": "Circle"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which wheel shape helps vehicles move smoothly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Triangle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oval",
+          "is_correct": false
+        }
+      ],
+      "answer": "Circle"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these has a round face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Door",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Window",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clock"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which shape is used for a pizza?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Triangle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rectangle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Circle"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which shape rolls easily?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cube",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cuboid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pyramid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Circle"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which everyday object shows the shape of a circle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencil box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blackboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plate"
+    }
+  ]
+}

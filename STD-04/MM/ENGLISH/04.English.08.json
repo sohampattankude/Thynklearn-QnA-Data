@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.08",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A Guessing Game"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What do we do in a guessing game?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think and guess",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Write answers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Read stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think and guess"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What helps us guess correctly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clues",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clues"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which skill improves in guessing games?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thinking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What should we do before guessing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shout loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rush quickly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore clues",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think carefully"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What makes guessing games fun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thinking and clues",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silence",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and clues"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which ability is used in guessing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What do clues help us do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Find answers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Get confused",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore questions",
+          "is_correct": false
+        }
+      ],
+      "answer": "Find answers"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why are guessing games useful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They improve thinking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They cause boredom",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They confuse players",
+          "is_correct": false
+        }
+      ],
+      "answer": "They improve thinking"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which game needs clues?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Guessing game",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running race",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Swimming",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cycling",
+          "is_correct": false
+        }
+      ],
+      "answer": "Guessing game"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should we avoid while guessing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Random answers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careful thinking",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Using clues",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Observation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Random answers"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which habit helps in guessing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Logical thinking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rushing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Logical thinking"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What do guessing games teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Problem solving",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running fast",
+          "is_correct": false
+        }
+      ],
+      "answer": "Problem solving"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is needed to guess correctly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attention",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Attention"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which activity sharpens the mind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Guessing games",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping all day",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Watching TV only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Doing nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Guessing games"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which quality is improved?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reasoning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reasoning"
+    }
+  ]
+}

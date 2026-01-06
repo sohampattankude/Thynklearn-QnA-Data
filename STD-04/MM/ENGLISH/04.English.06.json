@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.06",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Four Things About Me"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does this lesson help us talk about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ourselves",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Animals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Places",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ourselves"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word do we use to talk about ourselves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She",
+          "is_correct": false
+        }
+      ],
+      "answer": "I"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do we share in self-introduction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Our likes and habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Animal sounds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "History facts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Math tables",
+          "is_correct": false
+        }
+      ],
+      "answer": "Our likes and habits"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sentence is about yourself?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I like drawing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Birds fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dogs bark",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cars move",
+          "is_correct": false
+        }
+      ],
+      "answer": "I like drawing"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why is self-introduction important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It helps others know us",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It wastes time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It causes confusion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It stops learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "It helps others know us"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word is a pronoun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "I"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What do we tell others about ourselves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Our interests",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Weather report",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Traffic rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stories only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Our interests"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which sentence shows self-introduction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "My name is Riya",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The cat runs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Birds sing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cars move fast",
+          "is_correct": false
+        }
+      ],
+      "answer": "My name is Riya"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What helps people understand us better?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Talking about ourselves clearly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Staying silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Giving wrong information",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Avoiding conversation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Talking about ourselves clearly"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word refers to the speaker?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "You",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We",
+          "is_correct": false
+        }
+      ],
+      "answer": "I"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is a good self-description?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I like reading books",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Books are heavy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Birds have wings",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cars are fast",
+          "is_correct": false
+        }
+      ],
+      "answer": "I like reading books"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why do we introduce ourselves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To make friends",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To confuse people",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To avoid talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "To make friends"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which sentence talks about hobbies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "I enjoy painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dogs bark",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rain falls",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sun shines",
+          "is_correct": false
+        }
+      ],
+      "answer": "I enjoy painting"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What helps build confidence?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Talking about oneself",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Avoiding speech",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Staying quiet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hiding information",
+          "is_correct": false
+        }
+      ],
+      "answer": "Talking about oneself"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which value is shown by self-introduction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Confidence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Confidence"
+    }
+  ]
+}

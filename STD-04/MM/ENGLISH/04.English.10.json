@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.10",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Action Words and Phrases"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are action words called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Verbs",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Nouns",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Adjectives",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pronouns",
+          "is_correct": false
+        }
+      ],
+      "answer": "Verbs"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word shows action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which phrase shows action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jump high",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Red ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tall tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cold water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jump high"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which verb shows movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walk",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walk"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which sentence has an action word?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The boy runs fast",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The sky is blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The apple is red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The book is new",
+          "is_correct": false
+        }
+      ],
+      "answer": "The boy runs fast"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word shows doing something?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Write",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Write"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which action word fits: She ___ a song.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sings",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Song",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chair",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sings"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which is an action phrase?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Run quickly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Big house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red apple",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cold water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Run quickly"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which verb shows jumping?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hop",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hop"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word shows eating?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eat",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eat"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which sentence shows action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birds fly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Birds are blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Birds are small",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Birds are cute",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birds fly"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which verb fits: He ___ the ball.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Throws",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Soft",
+          "is_correct": false
+        }
+      ],
+      "answer": "Throws"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word shows movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dance",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dress",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Desk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Door",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dance"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which verb shows speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Talk",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Voice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Talk"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word tells an action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Toy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Game",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Park",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play"
+    }
+  ]
+}

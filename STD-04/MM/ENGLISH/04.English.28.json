@@ -1,0 +1,571 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.28",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "From the Postbox"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main idea of the lesson 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understanding daily life",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding daily life"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which activity is shown in the lesson 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits and values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits and values"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'From the Postbox' teach children?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thinking and observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and observation"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which value is highlighted in 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teamwork and cooperation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teamwork and cooperation"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word best matches the lesson 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Using simple language",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Using simple language"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What do students learn from 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Learning by doing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learning by doing"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which action is common in 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Learning through activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learning through activities"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What message does 'From the Postbox' give?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understanding daily life",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding daily life"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which skill is developed in 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits and values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits and values"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which scene fits the lesson 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thinking and observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and observation"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What should children understand from 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teamwork and cooperation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teamwork and cooperation"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which habit is encouraged in 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Using simple language",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Using simple language"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which example matches 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Learning by doing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learning by doing"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does the lesson mostly describe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Learning through activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learning through activities"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which learning skill is used here?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understanding daily life",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding daily life"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What does the lesson focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits and values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits and values"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which statement is correct about 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thinking and observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and observation"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which activity supports learning in 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teamwork and cooperation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teamwork and cooperation"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which word describes the lesson best?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Using simple language",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Using simple language"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What role do children play in 'From the Postbox'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Learning by doing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learning by doing"
+    }
+  ]
+}

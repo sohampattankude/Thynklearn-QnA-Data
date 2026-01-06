@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.02",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "The Inter-relationships between Living Things"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Which living things make their own food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plants",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Birds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Insects",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plants"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Animals depend on plants for which of the following?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shelter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which gas do plants give out during photosynthesis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which animal eats only plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Animals that eat plants are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Herbivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scavengers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Herbivores"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which animal eats both plants and animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Human"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Animals that eat other animals are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Herbivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carnivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Producers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carnivores"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which of the following is a food chain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Grass → Deer → Lion",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lion → Grass → Deer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deer → Grass → Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Grass → Lion → Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Grass → Deer → Lion"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Plants are called producers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eat animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Make their own food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Depend on animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Do not need air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Make their own food"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Animals are called consumers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Make food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Consume plants or animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Produce oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Live in water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Consume plants or animals"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which living things make their own food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plants",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Birds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Insects",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plants"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Animals depend on plants for which of the following?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shelter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which gas do plants give out during photosynthesis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which animal eats only plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Animals that eat plants are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Herbivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scavengers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Herbivores"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which animal eats both plants and animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Human"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Animals that eat other animals are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Herbivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carnivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Producers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carnivores"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which of the following is a food chain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Grass → Deer → Lion",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lion → Grass → Deer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deer → Grass → Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Grass → Lion → Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Grass → Deer → Lion"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Plants are called producers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eat animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Make their own food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Depend on animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Do not need air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Make their own food"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Animals are called consumers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Make food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Consume plants or animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Produce oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Live in water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Consume plants or animals"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which living things make their own food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plants",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Birds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Insects",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plants"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Animals depend on plants for which of the following?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shelter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which gas do plants give out during photosynthesis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which animal eats only plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Animals that eat plants are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Herbivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scavengers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Herbivores"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which animal eats both plants and animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Human"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Animals that eat other animals are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Herbivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carnivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Producers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carnivores"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which of the following is a food chain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Grass → Deer → Lion",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lion → Grass → Deer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deer → Grass → Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Grass → Lion → Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Grass → Deer → Lion"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Plants are called producers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eat animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Make their own food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Depend on animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Do not need air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Make their own food"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Animals are called consumers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Make food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Consume plants or animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Produce oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Live in water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Consume plants or animals"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which living things make their own food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plants",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Birds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Insects",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plants"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Animals depend on plants for which of the following?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shelter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which gas do plants give out during photosynthesis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which animal eats only plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Animals that eat plants are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Herbivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scavengers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Herbivores"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which animal eats both plants and animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Human"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Animals that eat other animals are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Herbivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carnivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Producers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carnivores"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which of the following is a food chain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Grass → Deer → Lion",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lion → Grass → Deer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deer → Grass → Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Grass → Lion → Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Grass → Deer → Lion"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Plants are called producers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eat animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Make their own food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Depend on animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Do not need air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Make their own food"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Animals are called consumers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Make food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Consume plants or animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Produce oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Live in water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Consume plants or animals"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which living things make their own food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plants",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Birds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Insects",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plants"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Animals depend on plants for which of the following?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shelter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which gas do plants give out during photosynthesis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which animal eats only plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Animals that eat plants are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Herbivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scavengers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Herbivores"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which animal eats both plants and animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Human"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Animals that eat other animals are called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Herbivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Omnivores",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carnivores",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Producers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carnivores"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which of the following is a food chain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Grass → Deer → Lion",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lion → Grass → Deer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deer → Grass → Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Grass → Lion → Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Grass → Deer → Lion"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Plants are called producers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eat animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Make their own food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Depend on animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Do not need air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Make their own food"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Animals are called consumers because they?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Make food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Consume plants or animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Produce oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Live in water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Consume plants or animals"
+        }
+    ]
+}

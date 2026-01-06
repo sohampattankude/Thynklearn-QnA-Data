@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.18",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Changes in the Family and Neighbourhood"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why do families change over time?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of festivals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because of births, deaths and marriages",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because of food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because of births, deaths and marriages"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "A family with grandparents, parents and children is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Small family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Joint family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Joint family"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which change may happen in a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New houses are built",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Trees disappear magically",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Time stops",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sun does not rise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New houses are built"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Why do people move to cities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For education and jobs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For education and jobs"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which type of family has only parents and children?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Joint family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Large family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Extended family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nuclear family"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which event can increase the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Marriage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Retirement",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopping",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marriage"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which event can decrease the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Birth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marriage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Death",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festival",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Death"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Neighbourhood changes when?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New people come",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "No one lives there",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "There is rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is night",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New people come"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which facility improves a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Schools",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Garbage heaps",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Broken roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Schools"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Changes in neighbourhood affect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only children",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone living there",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only animals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone living there"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Why do families change over time?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of festivals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because of births, deaths and marriages",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because of food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because of births, deaths and marriages"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "A family with grandparents, parents and children is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Small family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Joint family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Joint family"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which change may happen in a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New houses are built",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Trees disappear magically",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Time stops",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sun does not rise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New houses are built"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Why do people move to cities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For education and jobs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For education and jobs"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which type of family has only parents and children?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Joint family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Large family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Extended family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nuclear family"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which event can increase the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Marriage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Retirement",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopping",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marriage"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which event can decrease the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Birth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marriage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Death",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festival",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Death"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Neighbourhood changes when?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New people come",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "No one lives there",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "There is rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is night",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New people come"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which facility improves a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Schools",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Garbage heaps",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Broken roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Schools"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Changes in neighbourhood affect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only children",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone living there",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only animals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone living there"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why do families change over time?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of festivals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because of births, deaths and marriages",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because of food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because of births, deaths and marriages"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "A family with grandparents, parents and children is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Small family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Joint family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Joint family"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which change may happen in a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New houses are built",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Trees disappear magically",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Time stops",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sun does not rise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New houses are built"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Why do people move to cities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For education and jobs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For education and jobs"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which type of family has only parents and children?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Joint family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Large family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Extended family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nuclear family"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which event can increase the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Marriage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Retirement",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopping",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marriage"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which event can decrease the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Birth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marriage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Death",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festival",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Death"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Neighbourhood changes when?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New people come",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "No one lives there",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "There is rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is night",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New people come"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which facility improves a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Schools",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Garbage heaps",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Broken roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Schools"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Changes in neighbourhood affect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only children",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone living there",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only animals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone living there"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Why do families change over time?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of festivals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because of births, deaths and marriages",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because of food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because of births, deaths and marriages"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "A family with grandparents, parents and children is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Small family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Joint family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Joint family"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which change may happen in a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New houses are built",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Trees disappear magically",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Time stops",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sun does not rise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New houses are built"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Why do people move to cities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For education and jobs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For education and jobs"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which type of family has only parents and children?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Joint family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Large family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Extended family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nuclear family"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which event can increase the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Marriage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Retirement",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopping",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marriage"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which event can decrease the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Birth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marriage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Death",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festival",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Death"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Neighbourhood changes when?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New people come",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "No one lives there",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "There is rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is night",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New people come"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which facility improves a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Schools",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Garbage heaps",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Broken roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Schools"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Changes in neighbourhood affect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only children",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone living there",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only animals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone living there"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Why do families change over time?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of festivals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because of births, deaths and marriages",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because of food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because of births, deaths and marriages"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "A family with grandparents, parents and children is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Small family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Joint family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Joint family"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which change may happen in a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New houses are built",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Trees disappear magically",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Time stops",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sun does not rise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New houses are built"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Why do people move to cities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For education and jobs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For education and jobs"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which type of family has only parents and children?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Joint family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nuclear family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Large family",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Extended family",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nuclear family"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which event can increase the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Marriage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Retirement",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopping",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marriage"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which event can decrease the size of a family?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Birth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marriage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Death",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festival",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Death"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Neighbourhood changes when?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "New people come",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "No one lives there",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "There is rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is night",
+                    "is_correct": false
+                }
+            ],
+            "answer": "New people come"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which facility improves a neighbourhood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Schools",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Garbage heaps",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Broken roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Schools"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Changes in neighbourhood affect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only children",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone living there",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only animals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone living there"
+        }
+    ]
+}

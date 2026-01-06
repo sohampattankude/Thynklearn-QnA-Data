@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.17",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "My Upbringing"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Who plays the most important role in a child's upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Neighbours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Teachers only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Family"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Upbringing means the way a child is?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brought up",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Taught games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Given money",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brought up"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which habit is taught by parents at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bad habits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Good manners",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Good manners"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which value is learned from elders?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Disrespect",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Honesty",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Honesty"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Who helps children learn good behaviour?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which habit shows good upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Speaking politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Speaking politely"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Children should respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "No one",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which quality helps us live happily with others?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jealousy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Good upbringing helps children become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Responsible citizens",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Careless people",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible citizens"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which habit should be avoided?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Being polite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Being rude"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Who plays the most important role in a child's upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Neighbours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Teachers only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Family"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Upbringing means the way a child is?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brought up",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Taught games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Given money",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brought up"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which habit is taught by parents at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bad habits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Good manners",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Good manners"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which value is learned from elders?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Disrespect",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Honesty",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Honesty"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Who helps children learn good behaviour?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which habit shows good upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Speaking politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Speaking politely"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Children should respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "No one",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which quality helps us live happily with others?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jealousy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Good upbringing helps children become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Responsible citizens",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Careless people",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible citizens"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which habit should be avoided?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Being polite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Being rude"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Who plays the most important role in a child's upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Neighbours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Teachers only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Family"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Upbringing means the way a child is?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brought up",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Taught games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Given money",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brought up"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which habit is taught by parents at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bad habits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Good manners",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Good manners"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which value is learned from elders?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Disrespect",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Honesty",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Honesty"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Who helps children learn good behaviour?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which habit shows good upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Speaking politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Speaking politely"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Children should respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "No one",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which quality helps us live happily with others?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jealousy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Good upbringing helps children become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Responsible citizens",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Careless people",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible citizens"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which habit should be avoided?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Being polite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Being rude"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Who plays the most important role in a child's upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Neighbours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Teachers only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Family"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Upbringing means the way a child is?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brought up",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Taught games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Given money",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brought up"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which habit is taught by parents at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bad habits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Good manners",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Good manners"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which value is learned from elders?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Disrespect",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Honesty",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Honesty"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Who helps children learn good behaviour?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which habit shows good upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Speaking politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Speaking politely"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Children should respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "No one",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which quality helps us live happily with others?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jealousy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Good upbringing helps children become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Responsible citizens",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Careless people",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible citizens"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which habit should be avoided?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Being polite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Being rude"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Who plays the most important role in a child's upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Family",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Neighbours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Teachers only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Family"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Upbringing means the way a child is?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brought up",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Taught games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Given money",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brought up"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which habit is taught by parents at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bad habits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Good manners",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Good manners"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which value is learned from elders?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Disrespect",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Honesty",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Honesty"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Who helps children learn good behaviour?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which habit shows good upbringing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Speaking politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Speaking politely"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Children should respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only friends",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everyone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "No one",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everyone"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which quality helps us live happily with others?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Anger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jealousy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Good upbringing helps children become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Responsible citizens",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Careless people",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible citizens"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which habit should be avoided?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being rude",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Being polite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Being rude"
+        }
+    ]
+}

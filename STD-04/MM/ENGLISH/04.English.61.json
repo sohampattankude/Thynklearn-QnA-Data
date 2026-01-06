@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.61",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Time to Laugh"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What kind of text is included in this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Short funny conversations",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A long story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A poem with rhymes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A set of rules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Short funny conversations"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the main purpose of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To make readers laugh",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To teach mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To explain science facts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To give instructions",
+          "is_correct": false
+        }
+      ],
+      "answer": "To make readers laugh"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why are the conversations funny?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They have unexpected answers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They are very long",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They use difficult words",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They are serious",
+          "is_correct": false
+        }
+      ],
+      "answer": "They have unexpected answers"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does humour help us do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Feel happy and relaxed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Feel angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Feel tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Feel confused",
+          "is_correct": false
+        }
+      ],
+      "answer": "Feel happy and relaxed"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who asks Sachin about his shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "His father",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "His teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "His friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "His brother",
+          "is_correct": false
+        }
+      ],
+      "answer": "His father"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why is Sachin wearing odd shoes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Both pairs are odd",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He lost one shoe",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He likes fashion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He made a mistake",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both pairs are odd"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What kind of task did the teacher give Bunty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing lines on a pet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Solving sums",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading a poem",
+          "is_correct": false
+        }
+      ],
+      "answer": "Writing lines on a pet"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why is Mona writing slowly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her brother reads slowly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She is tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She is bored",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She is careless",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her brother reads slowly"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What do these jokes mainly show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Playful thinking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hard work",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Strict rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sad feelings",
+          "is_correct": false
+        }
+      ],
+      "answer": "Playful thinking"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How do jokes usually end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "With a surprise",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "With a lesson",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "With instructions",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "With questions",
+          "is_correct": false
+        }
+      ],
+      "answer": "With a surprise"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What skill improves by reading jokes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understanding language",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing skill",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Counting ability",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding language"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What should children collect according to the activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jokes from books or newspapers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Maps",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jokes from books or newspapers"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What do jokes encourage us to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think differently",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Memorize facts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Follow rules strictly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Work silently",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think differently"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What feeling do jokes create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is important while telling jokes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clear expression",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Speaking fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading silently",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clear expression"
+    }
+  ]
+}

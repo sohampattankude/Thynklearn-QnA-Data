@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.22",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Transport and Communication"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Transport helps us to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Travel from one place to another",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Study",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cook food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Travel from one place to another"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which is a means of land transport?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Aeroplane",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bus",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bus"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which transport is used on water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ship",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bicycle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ship"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which transport travels in the air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Car",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Train",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which road sign shows a hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Red cross",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Blue square",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Black triangle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Red cross"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which service helps us send letters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Police",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Post office",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hospital",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "School",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Post office"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which device is used for communication?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fan",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Table",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chair",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which modern device helps us talk to people far away?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Radio",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Television",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Newspaper",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which transport is fastest?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bicycle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Why are traffic rules important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To delay travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To ensure safety",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To confuse people",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To ensure safety"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Transport helps us to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Travel from one place to another",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Study",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cook food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Travel from one place to another"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which is a means of land transport?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Aeroplane",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bus",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bus"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which transport is used on water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ship",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bicycle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ship"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which transport travels in the air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Car",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Train",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which road sign shows a hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Red cross",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Blue square",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Black triangle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Red cross"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which service helps us send letters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Police",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Post office",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hospital",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "School",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Post office"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which device is used for communication?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fan",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Table",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chair",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which modern device helps us talk to people far away?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Radio",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Television",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Newspaper",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which transport is fastest?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bicycle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Why are traffic rules important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To delay travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To ensure safety",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To confuse people",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To ensure safety"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Transport helps us to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Travel from one place to another",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Study",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cook food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Travel from one place to another"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which is a means of land transport?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Aeroplane",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bus",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bus"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which transport is used on water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ship",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bicycle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ship"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which transport travels in the air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Car",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Train",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which road sign shows a hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Red cross",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Blue square",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Black triangle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Red cross"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which service helps us send letters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Police",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Post office",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hospital",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "School",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Post office"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which device is used for communication?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fan",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Table",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chair",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which modern device helps us talk to people far away?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Radio",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Television",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Newspaper",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which transport is fastest?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bicycle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Why are traffic rules important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To delay travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To ensure safety",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To confuse people",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To ensure safety"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Transport helps us to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Travel from one place to another",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Study",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cook food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Travel from one place to another"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which is a means of land transport?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Aeroplane",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bus",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bus"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which transport is used on water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ship",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bicycle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ship"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which transport travels in the air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Car",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Train",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which road sign shows a hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Red cross",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Blue square",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Black triangle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Red cross"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which service helps us send letters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Police",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Post office",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hospital",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "School",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Post office"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which device is used for communication?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fan",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Table",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chair",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which modern device helps us talk to people far away?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Radio",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Television",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Newspaper",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which transport is fastest?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bicycle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Why are traffic rules important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To delay travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To ensure safety",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To confuse people",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To ensure safety"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Transport helps us to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Travel from one place to another",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Study",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cook food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Travel from one place to another"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which is a means of land transport?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Aeroplane",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bus",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bus"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which transport is used on water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ship",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bicycle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ship"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which transport travels in the air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Car",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ship",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Train",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which road sign shows a hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Red cross",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Blue square",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Black triangle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Red cross"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which service helps us send letters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Police",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Post office",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hospital",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "School",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Post office"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which device is used for communication?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fan",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Table",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chair",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which modern device helps us talk to people far away?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Radio",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Telephone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Television",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Newspaper",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Telephone"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which transport is fastest?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Train",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bicycle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Why are traffic rules important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To delay travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To ensure safety",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To confuse people",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To ensure safety"
+        }
+    ]
+}

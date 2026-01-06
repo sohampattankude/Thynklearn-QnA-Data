@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.08",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "The Value of Food"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why should we not waste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is valuable",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It changes colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It smells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is valuable"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "What should we do with leftover food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throw it away",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reuse it properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Burn it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ignore it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Reuse it properly"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which habit shows respect for food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking only needed food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Spilling food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking only needed food"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Food wastage can lead to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shortage of food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Happiness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Growth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "More energy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shortage of food"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Why should we share food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To show care",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To waste it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To avoid eating",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To make it cold",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To show care"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which action saves food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Taking more than needed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Storing food properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leaving food uncovered",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Storing food properly"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Why should food be stored properly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To change taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent spoilage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To increase quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent spoilage"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which practice wastes food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eating leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing edible food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing edible food"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Food is important because it gives us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Money",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Energy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Energy"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which value is learned by not wasting food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsibility",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsibility"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Why should we not waste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is valuable",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It changes colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It smells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is valuable"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "What should we do with leftover food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throw it away",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reuse it properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Burn it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ignore it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Reuse it properly"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which habit shows respect for food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking only needed food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Spilling food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking only needed food"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Food wastage can lead to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shortage of food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Happiness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Growth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "More energy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shortage of food"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Why should we share food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To show care",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To waste it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To avoid eating",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To make it cold",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To show care"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which action saves food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Taking more than needed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Storing food properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leaving food uncovered",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Storing food properly"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Why should food be stored properly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To change taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent spoilage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To increase quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent spoilage"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which practice wastes food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eating leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing edible food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing edible food"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Food is important because it gives us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Money",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Energy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Energy"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which value is learned by not wasting food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsibility",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsibility"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why should we not waste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is valuable",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It changes colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It smells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is valuable"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "What should we do with leftover food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throw it away",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reuse it properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Burn it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ignore it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Reuse it properly"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which habit shows respect for food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking only needed food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Spilling food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking only needed food"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Food wastage can lead to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shortage of food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Happiness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Growth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "More energy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shortage of food"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Why should we share food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To show care",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To waste it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To avoid eating",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To make it cold",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To show care"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which action saves food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Taking more than needed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Storing food properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leaving food uncovered",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Storing food properly"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Why should food be stored properly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To change taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent spoilage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To increase quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent spoilage"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which practice wastes food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eating leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing edible food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing edible food"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Food is important because it gives us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Money",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Energy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Energy"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which value is learned by not wasting food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsibility",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsibility"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Why should we not waste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is valuable",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It changes colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It smells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is valuable"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "What should we do with leftover food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throw it away",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reuse it properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Burn it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ignore it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Reuse it properly"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which habit shows respect for food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking only needed food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Spilling food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking only needed food"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Food wastage can lead to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shortage of food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Happiness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Growth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "More energy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shortage of food"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Why should we share food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To show care",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To waste it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To avoid eating",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To make it cold",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To show care"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which action saves food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Taking more than needed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Storing food properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leaving food uncovered",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Storing food properly"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Why should food be stored properly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To change taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent spoilage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To increase quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent spoilage"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which practice wastes food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eating leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing edible food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing edible food"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Food is important because it gives us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Money",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Energy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Energy"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which value is learned by not wasting food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsibility",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsibility"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Why should we not waste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is valuable",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It changes colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It smells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is valuable"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "What should we do with leftover food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throw it away",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reuse it properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Burn it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ignore it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Reuse it properly"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which habit shows respect for food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking only needed food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Spilling food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking only needed food"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Food wastage can lead to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shortage of food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Happiness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Growth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "More energy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shortage of food"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Why should we share food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To show care",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To waste it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To avoid eating",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To make it cold",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To show care"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which action saves food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Taking more than needed",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Storing food properly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leaving food uncovered",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Storing food properly"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Why should food be stored properly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To change taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent spoilage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To increase quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent spoilage"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which practice wastes food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eating leftovers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sharing food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Throwing edible food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing edible food"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Food is important because it gives us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Money",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Energy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Energy"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which value is learned by not wasting food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsibility",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsibility"
+        }
+    ]
+}

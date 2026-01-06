@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.10",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Clothes"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why do we wear clothes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To protect our body",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look tall",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To protect our body"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in winter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Raincoat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Raincoat"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "From which plant do we get cotton?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tea plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wheat plant",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton plant"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which animal gives us wool?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sheep",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Horse",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sheep"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Why do people wear uniforms?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fashion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For equality",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For equality"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which fibre is obtained from silkworm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wool",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Silk"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Clothes should be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Torn",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which clothes keep us warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Woollen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Why do we wear clothes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To protect our body",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look tall",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To protect our body"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in winter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Raincoat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Raincoat"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "From which plant do we get cotton?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tea plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wheat plant",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton plant"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which animal gives us wool?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sheep",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Horse",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sheep"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Why do people wear uniforms?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fashion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For equality",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For equality"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which fibre is obtained from silkworm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wool",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Silk"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Clothes should be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Torn",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which clothes keep us warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Woollen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why do we wear clothes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To protect our body",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look tall",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To protect our body"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in winter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Raincoat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Raincoat"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "From which plant do we get cotton?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tea plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wheat plant",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton plant"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which animal gives us wool?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sheep",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Horse",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sheep"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Why do people wear uniforms?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fashion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For equality",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For equality"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which fibre is obtained from silkworm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wool",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Silk"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Clothes should be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Torn",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which clothes keep us warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Woollen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Why do we wear clothes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To protect our body",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look tall",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To protect our body"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in winter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Raincoat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Raincoat"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "From which plant do we get cotton?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tea plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wheat plant",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton plant"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which animal gives us wool?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sheep",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Horse",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sheep"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Why do people wear uniforms?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fashion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For equality",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For equality"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which fibre is obtained from silkworm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wool",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Silk"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Clothes should be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Torn",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which clothes keep us warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Woollen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Why do we wear clothes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To protect our body",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look tall",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To protect our body"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which type of clothes are worn in winter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Raincoat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Raincoat"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "From which plant do we get cotton?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tea plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wheat plant",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton plant"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which animal gives us wool?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sheep",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Horse",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sheep"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Why do people wear uniforms?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fashion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For equality",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For equality"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which fibre is obtained from silkworm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wool",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Silk"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Clothes should be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Torn",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which clothes keep us warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Woollen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen"
+        }
+    ]
+}

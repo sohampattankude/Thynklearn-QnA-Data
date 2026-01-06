@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.05",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Water for Every Household"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Which is the main source of water on Earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Well",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rain"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which source supplies water to homes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pond",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Why should water be used carefully?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is unlimited",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is costly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It is limited",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is dirty",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is limited"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which activity uses the most water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brushing teeth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Drinking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bathing"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which habit helps save water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving tap open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using bucket bath",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tank",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using bucket bath"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which of these is a public water source?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jug",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Why should we not waste water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It causes pollution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It may not be available later",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It changes colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It may not be available later"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which practice wastes water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fixing leaks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reusing water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping tap running",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping tap running"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which of the following helps in water conservation?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rainwater harvesting",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cutting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Polluting rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tanks",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainwater harvesting"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which water is used for drinking at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Waste water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tap water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sea water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap water"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which is the main source of water on Earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Well",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rain"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which source supplies water to homes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pond",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Why should water be used carefully?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is unlimited",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is costly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It is limited",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is dirty",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is limited"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which activity uses the most water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brushing teeth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Drinking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bathing"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which habit helps save water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving tap open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using bucket bath",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tank",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using bucket bath"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which of these is a public water source?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jug",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Why should we not waste water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It causes pollution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It may not be available later",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It changes colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It may not be available later"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which practice wastes water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fixing leaks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reusing water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping tap running",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping tap running"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which of the following helps in water conservation?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rainwater harvesting",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cutting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Polluting rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tanks",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainwater harvesting"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which water is used for drinking at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Waste water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tap water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sea water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap water"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which is the main source of water on Earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Well",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rain"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which source supplies water to homes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pond",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Why should water be used carefully?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is unlimited",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is costly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It is limited",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is dirty",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is limited"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which activity uses the most water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brushing teeth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Drinking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bathing"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which habit helps save water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving tap open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using bucket bath",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tank",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using bucket bath"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which of these is a public water source?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jug",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Why should we not waste water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It causes pollution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It may not be available later",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It changes colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It may not be available later"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which practice wastes water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fixing leaks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reusing water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping tap running",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping tap running"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which of the following helps in water conservation?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rainwater harvesting",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cutting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Polluting rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tanks",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainwater harvesting"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which water is used for drinking at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Waste water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tap water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sea water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap water"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which is the main source of water on Earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Well",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rain"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which source supplies water to homes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pond",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Why should water be used carefully?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is unlimited",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is costly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It is limited",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is dirty",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is limited"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which activity uses the most water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brushing teeth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Drinking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bathing"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which habit helps save water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving tap open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using bucket bath",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tank",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using bucket bath"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which of these is a public water source?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jug",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Why should we not waste water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It causes pollution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It may not be available later",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It changes colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It may not be available later"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which practice wastes water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fixing leaks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reusing water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping tap running",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping tap running"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which of the following helps in water conservation?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rainwater harvesting",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cutting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Polluting rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tanks",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainwater harvesting"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which water is used for drinking at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Waste water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tap water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sea water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap water"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which is the main source of water on Earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Well",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rain"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which source supplies water to homes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pond",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Why should water be used carefully?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is unlimited",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is costly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It is limited",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is dirty",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is limited"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which activity uses the most water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brushing teeth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Drinking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bathing"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which habit helps save water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving tap open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using bucket bath",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tank",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using bucket bath"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which of these is a public water source?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jug",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Why should we not waste water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It causes pollution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It may not be available later",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It tastes bad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It changes colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It may not be available later"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which practice wastes water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fixing leaks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reusing water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping tap running",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping tap running"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which of the following helps in water conservation?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rainwater harvesting",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cutting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Polluting rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflowing tanks",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainwater harvesting"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which water is used for drinking at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Waste water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tap water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sea water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tap water"
+        }
+    ]
+}

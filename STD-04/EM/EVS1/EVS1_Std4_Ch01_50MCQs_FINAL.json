@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.01",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "The Life Cycle of Animals"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Which animal gives birth to young ones?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which animal lays eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "What do chicks hatch from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Seeds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eggs"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which animal does not lay eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Crow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Snake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Goat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Goat"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "The young one of a butterfly is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cub",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Kid",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chick",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "The larva of a butterfly is also called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caterpillar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nymph",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caterpillar"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "How many stages are there in a butterfly life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "2",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "3",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "4",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "5",
+                    "is_correct": false
+                }
+            ],
+            "answer": "4"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which stage comes after the egg stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chrysalis",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which stage of butterfly is called chrysalis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which animal shows metamorphosis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which animal gives birth to young ones?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which animal lays eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "What do chicks hatch from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Seeds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eggs"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which animal does not lay eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Crow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Snake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Goat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Goat"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "The young one of a butterfly is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cub",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Kid",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chick",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "The larva of a butterfly is also called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caterpillar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nymph",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caterpillar"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "How many stages are there in a butterfly life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "2",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "3",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "4",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "5",
+                    "is_correct": false
+                }
+            ],
+            "answer": "4"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which stage comes after the egg stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chrysalis",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which stage of butterfly is called chrysalis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which animal shows metamorphosis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which animal gives birth to young ones?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which animal lays eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "What do chicks hatch from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Seeds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eggs"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which animal does not lay eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Crow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Snake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Goat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Goat"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "The young one of a butterfly is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cub",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Kid",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chick",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "The larva of a butterfly is also called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caterpillar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nymph",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caterpillar"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "How many stages are there in a butterfly life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "2",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "3",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "4",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "5",
+                    "is_correct": false
+                }
+            ],
+            "answer": "4"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which stage comes after the egg stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chrysalis",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which stage of butterfly is called chrysalis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which animal shows metamorphosis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which animal gives birth to young ones?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which animal lays eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "What do chicks hatch from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Seeds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eggs"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which animal does not lay eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Crow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Snake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Goat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Goat"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "The young one of a butterfly is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cub",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Kid",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chick",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "The larva of a butterfly is also called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caterpillar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nymph",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caterpillar"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "How many stages are there in a butterfly life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "2",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "3",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "4",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "5",
+                    "is_correct": false
+                }
+            ],
+            "answer": "4"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which stage comes after the egg stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chrysalis",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which stage of butterfly is called chrysalis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which animal shows metamorphosis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which animal gives birth to young ones?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which animal lays eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "What do chicks hatch from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Seeds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shells",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eggs"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which animal does not lay eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Crow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Snake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Goat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lizard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Goat"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "The young one of a butterfly is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cub",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Kid",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chick",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "The larva of a butterfly is also called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caterpillar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nymph",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caterpillar"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "How many stages are there in a butterfly life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "2",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "3",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "4",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "5",
+                    "is_correct": false
+                }
+            ],
+            "answer": "4"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which stage comes after the egg stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chrysalis",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which stage of butterfly is called chrysalis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which animal shows metamorphosis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        }
+    ]
+}

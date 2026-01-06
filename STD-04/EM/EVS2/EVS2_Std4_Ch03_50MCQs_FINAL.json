@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.03",
+        "standard": "4",
+        "subject": "Environmental Studies \u2013 Part 2",
+        "medium": "English",
+        "chapter_name": "Maratha Sardars"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "This chapter mainly describes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Social life",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Historical events",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Geography",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Historical events"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Who is the central figure of this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Akbar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shivaji Maharaj",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Portuguese",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shivaji Maharaj"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "The events took place in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maharashtra",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Punjab",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bengal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kerala",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "The chapter highlights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leadership and bravery",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leadership and bravery"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "The lesson teaches us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Courage and values",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Selfishness",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Courage and values"
+        }
+    ]
+}

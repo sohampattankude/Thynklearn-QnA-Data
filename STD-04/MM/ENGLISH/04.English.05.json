@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.05",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "One at a Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'One at a Time' teach us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To do work step by step",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To rush work",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To avoid work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To do many tasks together",
+          "is_correct": false
+        }
+      ],
+      "answer": "To do work step by step"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why should we complete one task before starting another?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To avoid mistakes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To confuse others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To feel tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "To avoid mistakes"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which habit shows working one at a time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Finishing homework before playing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Watching TV while studying",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating while writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking during work",
+          "is_correct": false
+        }
+      ],
+      "answer": "Finishing homework before playing"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What happens when we rush our work?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "More mistakes happen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Work becomes perfect",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Learning increases",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time stops",
+          "is_correct": false
+        }
+      ],
+      "answer": "More mistakes happen"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which quality is needed to work one task at a time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Patience",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Patience"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What helps us focus better on work?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doing one task at a time",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doing many tasks",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Making noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Getting distracted",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing one task at a time"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is a good study habit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Completing work calmly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Leaving work unfinished",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rushing through work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Avoiding homework",
+          "is_correct": false
+        }
+      ],
+      "answer": "Completing work calmly"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why is patience important while working?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It improves quality of work",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It slows learning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It causes mistakes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It wastes effort",
+          "is_correct": false
+        }
+      ],
+      "answer": "It improves quality of work"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should we do after completing one task?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Start the next task",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stop working",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Get confused",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leave work incomplete",
+          "is_correct": false
+        }
+      ],
+      "answer": "Start the next task"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which student follows the lesson correctly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One who finishes work step by step",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "One who rushes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "One who skips work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "One who avoids tasks",
+          "is_correct": false
+        }
+      ],
+      "answer": "One who finishes work step by step"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What helps in better results?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careful work",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fast work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No work",
+          "is_correct": false
+        }
+      ],
+      "answer": "Careful work"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which habit reduces mistakes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Working slowly and carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Working fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring instructions",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Guessing answers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Working slowly and carefully"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why should we avoid doing many tasks at once?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It causes confusion",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It saves time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It improves learning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It gives better results",
+          "is_correct": false
+        }
+      ],
+      "answer": "It causes confusion"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should we do if a task is difficult?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Complete it patiently",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Leave it unfinished",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rush through it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Complete it patiently"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which value is taught by the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    }
+  ]
+}

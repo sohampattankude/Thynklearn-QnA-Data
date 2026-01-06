@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.06",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Variety in Food"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why do we eat different types of food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For nutrients",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For fun",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For nutrients"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Rice is mainly grown in which regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dry areas",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rainy areas",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cold areas",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainy areas"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Jowar and Bajra are examples of?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cereals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pulses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cereals"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which food gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Milk and curd are obtained from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Soil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Animals"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Different regions have different?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food habits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Languages only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Houses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Food habits"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which food is commonly eaten in coastal areas?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice and fish",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat and milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Potato",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice and fish"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which crop grows well in dry regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugarcane",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Jowar"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which food item comes from plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Meat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Why do people in cold regions eat more fatty food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To keep warm",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look healthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To keep warm"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Why do we eat different types of food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For nutrients",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For fun",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For nutrients"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Rice is mainly grown in which regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dry areas",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rainy areas",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cold areas",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainy areas"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Jowar and Bajra are examples of?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cereals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pulses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cereals"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which food gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Milk and curd are obtained from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Soil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Animals"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Different regions have different?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food habits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Languages only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Houses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Food habits"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which food is commonly eaten in coastal areas?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice and fish",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat and milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Potato",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice and fish"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which crop grows well in dry regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugarcane",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Jowar"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which food item comes from plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Meat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Why do people in cold regions eat more fatty food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To keep warm",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look healthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To keep warm"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why do we eat different types of food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For nutrients",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For fun",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For nutrients"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Rice is mainly grown in which regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dry areas",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rainy areas",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cold areas",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainy areas"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Jowar and Bajra are examples of?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cereals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pulses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cereals"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which food gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Milk and curd are obtained from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Soil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Animals"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Different regions have different?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food habits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Languages only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Houses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Food habits"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which food is commonly eaten in coastal areas?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice and fish",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat and milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Potato",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice and fish"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which crop grows well in dry regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugarcane",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Jowar"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which food item comes from plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Meat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Why do people in cold regions eat more fatty food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To keep warm",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look healthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To keep warm"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Why do we eat different types of food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For nutrients",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For fun",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For nutrients"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Rice is mainly grown in which regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dry areas",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rainy areas",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cold areas",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainy areas"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Jowar and Bajra are examples of?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cereals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pulses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cereals"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which food gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Milk and curd are obtained from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Soil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Animals"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Different regions have different?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food habits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Languages only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Houses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Food habits"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which food is commonly eaten in coastal areas?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice and fish",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat and milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Potato",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice and fish"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which crop grows well in dry regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugarcane",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Jowar"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which food item comes from plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Meat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Why do people in cold regions eat more fatty food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To keep warm",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look healthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To keep warm"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Why do we eat different types of food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For nutrients",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For fun",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For nutrients"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Rice is mainly grown in which regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dry areas",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rainy areas",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cold areas",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainy areas"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Jowar and Bajra are examples of?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cereals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pulses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cereals"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which food gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Milk and curd are obtained from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Soil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Animals"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Different regions have different?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food habits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Languages only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Houses",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Food habits"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which food is commonly eaten in coastal areas?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice and fish",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat and milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Potato",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice and fish"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which crop grows well in dry regions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wheat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jowar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugarcane",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Jowar"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which food item comes from plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Meat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Why do people in cold regions eat more fatty food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To keep warm",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To look healthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To keep warm"
+        }
+    ]
+}

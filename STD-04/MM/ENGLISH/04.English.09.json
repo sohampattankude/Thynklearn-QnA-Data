@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.09",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "In the Park"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where do children go to play?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Park",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Office",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Library",
+          "is_correct": false
+        }
+      ],
+      "answer": "Park"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which thing is found in a park?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Swing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cupboard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Swing"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What activity is common in a park?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Studying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleeping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why do people visit parks?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun and exercise",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For cooking",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For studying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For shopping",
+          "is_correct": false
+        }
+      ],
+      "answer": "For fun and exercise"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which game can be played in a park?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hide and seek",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Typing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cooking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading silently",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hide and seek"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which equipment is used for play?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Slide",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sofa",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Desk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shelf",
+          "is_correct": false
+        }
+      ],
+      "answer": "Slide"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who visits parks?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Children and adults",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only drivers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children and adults"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What helps keep parks clean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Using dustbins",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Throwing litter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Breaking plants",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spitting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Using dustbins"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What do parks provide?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fresh air",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Smoke",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dust",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fresh air"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which activity keeps us fit in a park?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jogging",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating junk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sitting all day",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jogging"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why are parks important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They provide space to play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste land",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause pollution",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop exercise",
+          "is_correct": false
+        }
+      ],
+      "answer": "They provide space to play"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which behaviour is good in a park?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sharing play equipment",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Damaging property",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shouting loudly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sharing play equipment"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should we protect in parks?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plants",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Litter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Broken items",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Waste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plants"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which game uses open space?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Football",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Typing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Writing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Football"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do children learn in parks?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teamwork",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teamwork"
+    }
+  ]
+}

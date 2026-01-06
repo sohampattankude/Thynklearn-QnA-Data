@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.11",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "A Look inside the Body"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to think?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stomach",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brain"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which organ pumps blood in our body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kidney",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heart"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to breathe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stomach",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Liver",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Intestine",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lungs"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which organ digests food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Stomach",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lungs",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stomach"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which organ removes waste from blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Kidneys",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Eyes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Kidneys"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to see?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eyes"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to hear?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ears"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to smell?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tongue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ears",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nose"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which part helps us to taste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tongue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skin",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tongue"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which system controls all activities of the body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Digestive system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Respiratory system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nervous system",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Circulatory system",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nervous system"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to think?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stomach",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brain"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which organ pumps blood in our body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kidney",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heart"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to breathe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stomach",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Liver",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Intestine",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lungs"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which organ digests food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Stomach",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lungs",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stomach"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which organ removes waste from blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Kidneys",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Eyes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Kidneys"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to see?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eyes"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to hear?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ears"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to smell?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tongue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ears",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nose"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which part helps us to taste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tongue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skin",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tongue"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which system controls all activities of the body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Digestive system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Respiratory system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nervous system",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Circulatory system",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nervous system"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to think?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stomach",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brain"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which organ pumps blood in our body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kidney",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heart"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to breathe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stomach",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Liver",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Intestine",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lungs"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which organ digests food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Stomach",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lungs",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stomach"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which organ removes waste from blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Kidneys",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Eyes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Kidneys"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to see?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eyes"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to hear?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ears"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to smell?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tongue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ears",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nose"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which part helps us to taste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tongue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skin",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tongue"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which system controls all activities of the body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Digestive system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Respiratory system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nervous system",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Circulatory system",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nervous system"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to think?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stomach",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brain"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which organ pumps blood in our body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kidney",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heart"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to breathe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stomach",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Liver",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Intestine",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lungs"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which organ digests food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Stomach",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lungs",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stomach"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which organ removes waste from blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Kidneys",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Eyes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Kidneys"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to see?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eyes"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to hear?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ears"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to smell?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tongue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ears",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nose"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which part helps us to taste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tongue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skin",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tongue"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which system controls all activities of the body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Digestive system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Respiratory system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nervous system",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Circulatory system",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nervous system"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to think?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Brain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stomach",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brain"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which organ pumps blood in our body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kidney",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heart"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to breathe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stomach",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Liver",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lungs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Intestine",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lungs"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which organ digests food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Stomach",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lungs",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stomach"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which organ removes waste from blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lungs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Kidneys",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Eyes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Kidneys"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to see?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Eyes"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which part of the body helps us to hear?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nose",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tongue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ears"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which organ helps us to smell?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tongue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nose",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ears",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nose"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which part helps us to taste food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eyes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tongue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ears",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skin",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tongue"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which system controls all activities of the body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Digestive system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Respiratory system",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nervous system",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Circulatory system",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nervous system"
+        }
+    ]
+}

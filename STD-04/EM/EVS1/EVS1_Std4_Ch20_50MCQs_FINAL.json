@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.20",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "I’ll be Responsible and Sensitive"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Being responsible means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ignoring duties",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking care of our actions",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Doing nothing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking care of our actions"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which action shows responsibility?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Keeping surroundings clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking rules",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shouting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping surroundings clean"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Being sensitive means being?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring towards others",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Angry",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring towards others"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which habit shows sensitivity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping someone in need",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Laughing at others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Helping someone in need"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Why should we follow rules?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To get punished",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To live safely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To show power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To live safely"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which behaviour is responsible?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throwing garbage anywhere",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using dustbin",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Damaging property",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Making noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using dustbin"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which habit helps society?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Being sensitive towards animals means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hurting them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring for them",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frightening them",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring for them"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which action shows respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Interrupting elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Listening politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Arguing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Listening politely"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Responsible citizens help in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Creating problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Building a better society",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking laws",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Building a better society"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Being responsible means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ignoring duties",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking care of our actions",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Doing nothing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking care of our actions"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which action shows responsibility?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Keeping surroundings clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking rules",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shouting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping surroundings clean"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Being sensitive means being?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring towards others",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Angry",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring towards others"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which habit shows sensitivity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping someone in need",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Laughing at others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Helping someone in need"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Why should we follow rules?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To get punished",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To live safely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To show power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To live safely"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which behaviour is responsible?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throwing garbage anywhere",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using dustbin",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Damaging property",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Making noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using dustbin"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which habit helps society?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Being sensitive towards animals means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hurting them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring for them",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frightening them",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring for them"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which action shows respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Interrupting elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Listening politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Arguing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Listening politely"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Responsible citizens help in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Creating problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Building a better society",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking laws",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Building a better society"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Being responsible means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ignoring duties",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking care of our actions",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Doing nothing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking care of our actions"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which action shows responsibility?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Keeping surroundings clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking rules",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shouting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping surroundings clean"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Being sensitive means being?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring towards others",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Angry",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring towards others"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which habit shows sensitivity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping someone in need",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Laughing at others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Helping someone in need"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Why should we follow rules?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To get punished",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To live safely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To show power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To live safely"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which behaviour is responsible?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throwing garbage anywhere",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using dustbin",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Damaging property",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Making noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using dustbin"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which habit helps society?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Being sensitive towards animals means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hurting them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring for them",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frightening them",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring for them"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which action shows respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Interrupting elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Listening politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Arguing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Listening politely"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Responsible citizens help in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Creating problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Building a better society",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking laws",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Building a better society"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Being responsible means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ignoring duties",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking care of our actions",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Doing nothing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking care of our actions"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which action shows responsibility?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Keeping surroundings clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking rules",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shouting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping surroundings clean"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Being sensitive means being?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring towards others",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Angry",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring towards others"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which habit shows sensitivity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping someone in need",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Laughing at others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Helping someone in need"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Why should we follow rules?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To get punished",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To live safely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To show power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To live safely"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which behaviour is responsible?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throwing garbage anywhere",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using dustbin",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Damaging property",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Making noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using dustbin"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which habit helps society?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Being sensitive towards animals means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hurting them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring for them",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frightening them",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring for them"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which action shows respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Interrupting elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Listening politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Arguing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Listening politely"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Responsible citizens help in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Creating problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Building a better society",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking laws",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Building a better society"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Being responsible means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ignoring duties",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Taking care of our actions",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Being careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Doing nothing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Taking care of our actions"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which action shows responsibility?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Keeping surroundings clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking rules",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shouting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Keeping surroundings clean"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Being sensitive means being?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring towards others",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Selfish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Angry",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring towards others"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which habit shows sensitivity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Helping someone in need",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Laughing at others",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fighting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Helping someone in need"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Why should we follow rules?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To get punished",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To live safely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To waste time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To show power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To live safely"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which behaviour is responsible?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Throwing garbage anywhere",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using dustbin",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Damaging property",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Making noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using dustbin"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which habit helps society?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Selfishness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooperation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Anger",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cooperation"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Being sensitive towards animals means?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hurting them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caring for them",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frightening them",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caring for them"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which action shows respect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Interrupting elders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Listening politely",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Arguing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Listening politely"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Responsible citizens help in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Creating problems",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Building a better society",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Breaking laws",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pollution",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Building a better society"
+        }
+    ]
+}

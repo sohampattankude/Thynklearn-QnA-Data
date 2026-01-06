@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.59",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Good Manners"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main idea of the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It tells a joke",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It teaches an important message",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It gives a recipe",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It explains a machine",
+          "is_correct": false
+        }
+      ],
+      "answer": "It teaches an important message"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which activity is encouraged in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Drawing maps",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Careful reading and listening",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Counting numbers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Careful reading and listening"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do students learn from this lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Names of places",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Difficult calculations",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Good habits and understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rules of games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits and understanding"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which type of text is this lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story or poem",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advertisement",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dictionary page",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Instruction list",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story or poem"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should children practice after reading?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Being rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Positive behaviour",
+          "is_correct": true
+        }
+      ],
+      "answer": "Positive behaviour"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which skill is developed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Repair work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Thinking and comprehension",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Driving skills",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and comprehension"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the lesson improve?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Language skills",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Memory of formulas",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Physical strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Language skills"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which value is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Respect and kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Respect and kindness"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the lesson suitable for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Engineers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Young learners",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only adults",
+          "is_correct": false
+        }
+      ],
+      "answer": "Young learners"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should students remember?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The message of the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Page numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Book cover",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "The message of the lesson"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which habit is promoted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring instructions",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Interrupting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening carefully"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What feeling does the lesson create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Interest in learning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Confusion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Interest in learning"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What helps understand the lesson better?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Guessing randomly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring meanings",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Skipping lines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading with attention",
+          "is_correct": true
+        }
+      ],
+      "answer": "Reading with attention"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does the lesson mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Everyday life experiences",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ancient wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Space travel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyday life experiences"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which quality is encouraged?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Selfishness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good manners and discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Disobedience",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good manners and discipline"
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.16",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Day and Night"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why do we have day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of seasons",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because Earth rotates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because Earth revolves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of moon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because Earth rotates"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which movement of the Earth causes day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Revolution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tilting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shaking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "How long does Earth take to rotate once?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "12 hours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "24 hours",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "365 days",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "30 days",
+                    "is_correct": false
+                }
+            ],
+            "answer": "24 hours"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has day?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Facing the Sun"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Away from the Sun"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "When it is day in India, what is it in the USA?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Day",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Night",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Evening",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Morning",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Night"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which object gives us daylight?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Moon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stars",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earth",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sun"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "The sun appears to rise in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "West",
+                    "is_correct": false
+                }
+            ],
+            "answer": "East"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "The sun appears to set in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "South",
+                    "is_correct": false
+                }
+            ],
+            "answer": "West"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Day and night are related to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weather",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation of Earth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Revolution of Earth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Moon phases",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation of Earth"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Why do we have day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of seasons",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because Earth rotates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because Earth revolves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of moon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because Earth rotates"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which movement of the Earth causes day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Revolution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tilting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shaking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "How long does Earth take to rotate once?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "12 hours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "24 hours",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "365 days",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "30 days",
+                    "is_correct": false
+                }
+            ],
+            "answer": "24 hours"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has day?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Facing the Sun"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Away from the Sun"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "When it is day in India, what is it in the USA?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Day",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Night",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Evening",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Morning",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Night"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which object gives us daylight?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Moon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stars",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earth",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sun"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "The sun appears to rise in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "West",
+                    "is_correct": false
+                }
+            ],
+            "answer": "East"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "The sun appears to set in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "South",
+                    "is_correct": false
+                }
+            ],
+            "answer": "West"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Day and night are related to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weather",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation of Earth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Revolution of Earth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Moon phases",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation of Earth"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why do we have day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of seasons",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because Earth rotates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because Earth revolves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of moon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because Earth rotates"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which movement of the Earth causes day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Revolution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tilting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shaking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "How long does Earth take to rotate once?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "12 hours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "24 hours",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "365 days",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "30 days",
+                    "is_correct": false
+                }
+            ],
+            "answer": "24 hours"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has day?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Facing the Sun"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Away from the Sun"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "When it is day in India, what is it in the USA?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Day",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Night",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Evening",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Morning",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Night"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which object gives us daylight?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Moon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stars",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earth",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sun"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "The sun appears to rise in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "West",
+                    "is_correct": false
+                }
+            ],
+            "answer": "East"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "The sun appears to set in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "South",
+                    "is_correct": false
+                }
+            ],
+            "answer": "West"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Day and night are related to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weather",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation of Earth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Revolution of Earth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Moon phases",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation of Earth"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Why do we have day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of seasons",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because Earth rotates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because Earth revolves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of moon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because Earth rotates"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which movement of the Earth causes day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Revolution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tilting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shaking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "How long does Earth take to rotate once?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "12 hours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "24 hours",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "365 days",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "30 days",
+                    "is_correct": false
+                }
+            ],
+            "answer": "24 hours"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has day?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Facing the Sun"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Away from the Sun"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "When it is day in India, what is it in the USA?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Day",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Night",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Evening",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Morning",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Night"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which object gives us daylight?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Moon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stars",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earth",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sun"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "The sun appears to rise in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "West",
+                    "is_correct": false
+                }
+            ],
+            "answer": "East"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "The sun appears to set in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "South",
+                    "is_correct": false
+                }
+            ],
+            "answer": "West"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Day and night are related to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weather",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation of Earth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Revolution of Earth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Moon phases",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation of Earth"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Why do we have day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of seasons",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because Earth rotates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because Earth revolves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of moon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because Earth rotates"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which movement of the Earth causes day and night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Revolution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tilting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shaking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "How long does Earth take to rotate once?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "12 hours",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "24 hours",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "365 days",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "30 days",
+                    "is_correct": false
+                }
+            ],
+            "answer": "24 hours"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has day?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Facing the Sun"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which part of the Earth has night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Facing the Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Away from the Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both sides",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Away from the Sun"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "When it is day in India, what is it in the USA?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Day",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Night",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Evening",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Morning",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Night"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which object gives us daylight?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Moon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stars",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sun",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earth",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sun"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "The sun appears to rise in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "West",
+                    "is_correct": false
+                }
+            ],
+            "answer": "East"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "The sun appears to set in the?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "South",
+                    "is_correct": false
+                }
+            ],
+            "answer": "West"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Day and night are related to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weather",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rotation of Earth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Revolution of Earth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Moon phases",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rotation of Earth"
+        }
+    ]
+}

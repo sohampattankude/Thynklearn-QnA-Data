@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.04",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Water Safe for Drinking"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Which water is safe for drinking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Muddy water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boiled water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salty water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiled water"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Why should drinking water be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent diseases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To save time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent diseases"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which method kills germs in water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Filtering",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Boiling",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cooling",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiling"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which disease can spread through dirty water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cholera",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cough",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Asthma",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cholera"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which of the following is a source of clean drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open drain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Polluted river",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Covered well",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stagnant pond",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered well"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Why should we filter water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To add taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove dirt",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To heat it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To store it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove dirt"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which habit keeps drinking water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using clean container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Using dirty cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using clean container"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "What should be done if water smells bad?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drink it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ignore it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boil or discard it",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Add sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boil or discard it"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which container is best for drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty bucket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Open pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Clean drinking water keeps us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weak",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Healthy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleepy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Healthy"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which water is safe for drinking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Muddy water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boiled water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salty water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiled water"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Why should drinking water be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent diseases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To save time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent diseases"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which method kills germs in water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Filtering",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Boiling",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cooling",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiling"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which disease can spread through dirty water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cholera",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cough",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Asthma",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cholera"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which of the following is a source of clean drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open drain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Polluted river",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Covered well",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stagnant pond",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered well"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Why should we filter water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To add taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove dirt",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To heat it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To store it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove dirt"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which habit keeps drinking water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using clean container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Using dirty cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using clean container"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "What should be done if water smells bad?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drink it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ignore it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boil or discard it",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Add sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boil or discard it"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which container is best for drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty bucket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Open pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Clean drinking water keeps us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weak",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Healthy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleepy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Healthy"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which water is safe for drinking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Muddy water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boiled water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salty water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiled water"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Why should drinking water be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent diseases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To save time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent diseases"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which method kills germs in water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Filtering",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Boiling",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cooling",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiling"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which disease can spread through dirty water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cholera",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cough",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Asthma",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cholera"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which of the following is a source of clean drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open drain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Polluted river",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Covered well",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stagnant pond",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered well"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Why should we filter water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To add taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove dirt",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To heat it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To store it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove dirt"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which habit keeps drinking water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using clean container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Using dirty cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using clean container"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "What should be done if water smells bad?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drink it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ignore it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boil or discard it",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Add sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boil or discard it"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which container is best for drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty bucket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Open pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Clean drinking water keeps us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weak",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Healthy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleepy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Healthy"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which water is safe for drinking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Muddy water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boiled water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salty water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiled water"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Why should drinking water be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent diseases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To save time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent diseases"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which method kills germs in water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Filtering",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Boiling",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cooling",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiling"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which disease can spread through dirty water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cholera",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cough",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Asthma",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cholera"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which of the following is a source of clean drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open drain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Polluted river",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Covered well",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stagnant pond",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered well"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Why should we filter water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To add taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove dirt",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To heat it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To store it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove dirt"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which habit keeps drinking water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using clean container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Using dirty cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using clean container"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "What should be done if water smells bad?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drink it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ignore it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boil or discard it",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Add sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boil or discard it"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which container is best for drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty bucket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Open pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Clean drinking water keeps us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weak",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Healthy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleepy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Healthy"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which water is safe for drinking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Muddy water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boiled water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salty water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiled water"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Why should drinking water be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent diseases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To save time",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent diseases"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which method kills germs in water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Filtering",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Boiling",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cooling",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Storing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boiling"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which disease can spread through dirty water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cholera",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cough",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Asthma",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cholera"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which of the following is a source of clean drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open drain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Polluted river",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Covered well",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stagnant pond",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered well"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Why should we filter water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To add taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove dirt",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To heat it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To store it",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove dirt"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which habit keeps drinking water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using clean container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Using dirty cup",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using clean container"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "What should be done if water smells bad?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drink it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ignore it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boil or discard it",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Add sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Boil or discard it"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which container is best for drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty bucket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Open pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Clean drinking water keeps us?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weak",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Healthy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleepy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Healthy"
+        }
+    ]
+}

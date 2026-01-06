@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.37",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Building Sentences"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understanding the main idea from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Studying ancient history",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the main idea from the lesson"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding the activity from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Learning advanced science",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the activity from the lesson"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Understanding the message from the lesson",
+          "is_correct": true
+        }
+      ],
+      "answer": "Understanding the message from the lesson"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understanding the value from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Studying ancient history",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the value from the lesson"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding the character from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Learning advanced science",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the character from the lesson"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding the vocabulary from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the vocabulary from the lesson"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Understanding the action from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Studying ancient history",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the action from the lesson"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding the habit from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Studying ancient history",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the habit from the lesson"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understanding the skill from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Learning advanced science",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the skill from the lesson"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Understanding the purpose from the lesson",
+          "is_correct": true
+        }
+      ],
+      "answer": "Understanding the purpose from the lesson"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding the example from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Learning advanced science",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the example from the lesson"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding the situation from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the situation from the lesson"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Understanding the learning from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Learning advanced science",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the learning from the lesson"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Understanding the concept from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the concept from the lesson"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'Building Sentences' mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Studying ancient history",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding the outcome from the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Learning advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Solving difficult mathematics",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding the outcome from the lesson"
+    }
+  ]
+}

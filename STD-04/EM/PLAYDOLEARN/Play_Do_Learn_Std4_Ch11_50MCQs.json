@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.11",
+        "standard": "4",
+        "subject": "Play.Do.Learn",
+        "medium": "English",
+        "chapter_name": "Picture"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "This chapter mainly focuses on?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Art",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical activity and skills",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical activity and skills"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which activity helps improve coordination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Balancing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which habit is encouraged in this chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laziness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carelessness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Inactivity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which skill is developed through these activities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical fitness",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Creativity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teamwork",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Why are these activities important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For marks only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For overall development",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For time pass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For overall development"
+        }
+    ]
+}

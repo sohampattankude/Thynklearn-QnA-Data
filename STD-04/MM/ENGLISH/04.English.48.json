@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.48",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Circles 4"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main idea of the lesson? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It explains science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It teaches an important life lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It talks about machines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It teaches mathematics",
+          "is_correct": false
+        }
+      ],
+      "answer": "It teaches an important life lesson"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which value is highlighted in the lesson? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed and anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Selfishness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Honesty and good behaviour",
+          "is_correct": true
+        }
+      ],
+      "answer": "Honesty and good behaviour"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do children learn from this lesson? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits and values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Historical dates",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Difficult formulas",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Complex rules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits and values"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which activity is related to this lesson? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading and understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Driving vehicles",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Repairing machines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading and understanding"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What kind of text is this lesson? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story or poem",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Instruction manual",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Advertisement",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story or poem"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which character is important in the lesson? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A building",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A machine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An object",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The main character",
+          "is_correct": true
+        }
+      ],
+      "answer": "The main character"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the lesson encourage? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disobedience",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bad habits",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Positive behaviour",
+          "is_correct": true
+        }
+      ],
+      "answer": "Positive behaviour"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should children understand from the story? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Actions have results",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luck is everything",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rules are useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mistakes don’t matter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Actions have results"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word best describes the lesson? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Confusing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Meaningful",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Irrelevant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Useless",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meaningful"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the lesson improve? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thinking and understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Memory of numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Physical strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and understanding"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which skill is developed? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cooking skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Driving skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mechanical skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading comprehension",
+          "is_correct": true
+        }
+      ],
+      "answer": "Reading comprehension"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What feeling does the lesson create? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Interest in learning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Confusion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Interest in learning"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should students remember? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moral of the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only page numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only headings",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moral of the lesson"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which habit is encouraged? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Listening carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Interrupting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening carefully"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the lesson mainly about? (Lesson: Circles 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Space travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ancient wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Everyday life experiences",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Advanced science",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyday life experiences"
+    }
+  ]
+}

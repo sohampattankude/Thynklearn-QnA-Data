@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.12",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A Garden of Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main idea of the lesson 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political systems",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical reactions",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Learning through activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Complex algebra",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learning through activities"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which activity is shown in the lesson 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teamwork and cooperation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex algebra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Space travel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teamwork and cooperation"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the lesson 'A Garden of Words' help children learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Political systems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Complex algebra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Understanding daily life",
+          "is_correct": true
+        }
+      ],
+      "answer": "Understanding daily life"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which value is taught in 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Historical wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding real-life actions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Complex algebra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding real-life actions"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word best relates to the lesson 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Historical wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical reactions",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Political systems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Learning through activities",
+          "is_correct": true
+        }
+      ],
+      "answer": "Learning through activities"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What do students do in the lesson 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Learning through activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Complex algebra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chemical reactions",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learning through activities"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which action is common in 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political systems",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Space travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Historical wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Using simple words and actions",
+          "is_correct": true
+        }
+      ],
+      "answer": "Using simple words and actions"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is an important message of 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political systems",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Using simple words and actions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Space travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chemical reactions",
+          "is_correct": false
+        }
+      ],
+      "answer": "Using simple words and actions"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which thing appears in the lesson 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation and thinking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Space travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chemical reactions",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation and thinking"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should children understand from 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Complex algebra",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding real-life actions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Historical wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding real-life actions"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which habit is encouraged in 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Complex algebra",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical reactions",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Understanding real-life actions",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Advanced science experiments",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding real-life actions"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which scene fits the lesson 'A Garden of Words'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chemical reactions",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Complex algebra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Understanding real-life actions",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Political systems",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding real-life actions"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does the lesson mostly describe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Space travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Political systems",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Historical wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Understanding real-life actions",
+          "is_correct": true
+        }
+      ],
+      "answer": "Understanding real-life actions"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which learning skill is used here?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teamwork and cooperation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Space travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chemical reactions",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Complex algebra",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teamwork and cooperation"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does the lesson focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Historical wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical reactions",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Space travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Learning step by step",
+          "is_correct": true
+        }
+      ],
+      "answer": "Learning step by step"
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.01",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 2",
+        "medium": "English",
+        "chapter_name": "Maharashtra before Shivaji"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Before Shivaji Maharaj, Maharashtra was ruled by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Various small rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Portuguese only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Various small rulers"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which power controlled large parts of Maharashtra before Shivaji?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mughals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dutch",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mughals"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Who were the Deshmukhs and Deshpandes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Village officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Soldiers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Traders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kings",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Village officers"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "People suffered mainly due to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Peace",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heavy taxes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Good governance",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Unity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heavy taxes"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which language was commonly spoken in Maharashtra?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hindi",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marathi",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Urdu",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "English",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marathi"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "The forts in Maharashtra were important because?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For farming",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For defence",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For trade",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For defence"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Before Shivaji, common people lacked?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Security",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Security"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Who collected taxes from people?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Farmers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rulers and officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saints",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rulers and officers"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Maharashtra was divided among?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "One king",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Many rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "One empire only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Villages only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Many rulers"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "People wished for?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "More taxes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Self-rule",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Foreign rule",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wars",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Self-rule"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Before Shivaji Maharaj, Maharashtra was ruled by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Various small rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Portuguese only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Various small rulers"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which power controlled large parts of Maharashtra before Shivaji?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mughals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dutch",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mughals"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Who were the Deshmukhs and Deshpandes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Village officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Soldiers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Traders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kings",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Village officers"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "People suffered mainly due to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Peace",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heavy taxes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Good governance",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Unity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heavy taxes"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which language was commonly spoken in Maharashtra?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hindi",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marathi",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Urdu",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "English",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marathi"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "The forts in Maharashtra were important because?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For farming",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For defence",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For trade",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For defence"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Before Shivaji, common people lacked?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Security",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Security"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Who collected taxes from people?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Farmers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rulers and officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saints",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rulers and officers"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Maharashtra was divided among?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "One king",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Many rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "One empire only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Villages only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Many rulers"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "People wished for?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "More taxes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Self-rule",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Foreign rule",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wars",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Self-rule"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Before Shivaji Maharaj, Maharashtra was ruled by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Various small rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Portuguese only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Various small rulers"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which power controlled large parts of Maharashtra before Shivaji?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mughals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dutch",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mughals"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Who were the Deshmukhs and Deshpandes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Village officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Soldiers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Traders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kings",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Village officers"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "People suffered mainly due to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Peace",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heavy taxes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Good governance",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Unity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heavy taxes"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which language was commonly spoken in Maharashtra?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hindi",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marathi",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Urdu",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "English",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marathi"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "The forts in Maharashtra were important because?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For farming",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For defence",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For trade",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For defence"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Before Shivaji, common people lacked?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Security",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Security"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Who collected taxes from people?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Farmers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rulers and officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saints",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rulers and officers"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Maharashtra was divided among?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "One king",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Many rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "One empire only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Villages only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Many rulers"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "People wished for?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "More taxes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Self-rule",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Foreign rule",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wars",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Self-rule"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Before Shivaji Maharaj, Maharashtra was ruled by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Various small rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Portuguese only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Various small rulers"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which power controlled large parts of Maharashtra before Shivaji?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mughals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dutch",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mughals"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Who were the Deshmukhs and Deshpandes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Village officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Soldiers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Traders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kings",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Village officers"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "People suffered mainly due to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Peace",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heavy taxes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Good governance",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Unity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heavy taxes"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which language was commonly spoken in Maharashtra?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hindi",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marathi",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Urdu",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "English",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marathi"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "The forts in Maharashtra were important because?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For farming",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For defence",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For trade",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For defence"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Before Shivaji, common people lacked?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Security",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Security"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Who collected taxes from people?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Farmers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rulers and officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saints",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rulers and officers"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Maharashtra was divided among?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "One king",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Many rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "One empire only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Villages only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Many rulers"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "People wished for?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "More taxes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Self-rule",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Foreign rule",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wars",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Self-rule"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Before Shivaji Maharaj, Maharashtra was ruled by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Various small rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Portuguese only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Various small rulers"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which power controlled large parts of Maharashtra before Shivaji?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mughals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "British",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dutch",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "French",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mughals"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Who were the Deshmukhs and Deshpandes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Village officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Soldiers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Traders",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kings",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Village officers"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "People suffered mainly due to?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Peace",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heavy taxes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Good governance",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Unity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heavy taxes"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which language was commonly spoken in Maharashtra?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hindi",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Marathi",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Urdu",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "English",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Marathi"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "The forts in Maharashtra were important because?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For farming",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For defence",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For trade",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For festivals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For defence"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Before Shivaji, common people lacked?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Entertainment",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Security",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Security"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Who collected taxes from people?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Farmers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rulers and officers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Teachers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saints",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rulers and officers"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Maharashtra was divided among?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "One king",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Many rulers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "One empire only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Villages only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Many rulers"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "People wished for?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "More taxes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Self-rule",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Foreign rule",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wars",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Self-rule"
+        }
+    ]
+}

@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.07",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Food and Nutrition"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Which nutrient gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbohydrates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbohydrates"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in body growth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamins",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps to protect us from diseases?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vitamins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fats",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamins"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which food is rich in carbohydrates?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vegetables",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which food is rich in proteins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Butter",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dal"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which nutrient keeps our body warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fats"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which food contains vitamins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "A diet containing all nutrients is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Junk diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Balanced diet",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heavy diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fatty diet",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Balanced diet"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in strong bones and teeth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Calcium",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamin C",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Calcium"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which mineral is needed to make blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Calcium",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Iron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sodium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Iron"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which nutrient gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbohydrates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbohydrates"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in body growth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamins",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps to protect us from diseases?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vitamins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fats",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamins"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which food is rich in carbohydrates?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vegetables",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which food is rich in proteins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Butter",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dal"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which nutrient keeps our body warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fats"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which food contains vitamins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "A diet containing all nutrients is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Junk diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Balanced diet",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heavy diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fatty diet",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Balanced diet"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in strong bones and teeth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Calcium",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamin C",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Calcium"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which mineral is needed to make blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Calcium",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Iron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sodium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Iron"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which nutrient gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbohydrates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbohydrates"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in body growth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamins",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps to protect us from diseases?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vitamins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fats",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamins"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which food is rich in carbohydrates?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vegetables",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which food is rich in proteins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Butter",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dal"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which nutrient keeps our body warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fats"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which food contains vitamins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "A diet containing all nutrients is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Junk diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Balanced diet",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heavy diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fatty diet",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Balanced diet"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in strong bones and teeth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Calcium",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamin C",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Calcium"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which mineral is needed to make blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Calcium",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Iron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sodium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Iron"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which nutrient gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbohydrates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbohydrates"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in body growth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamins",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps to protect us from diseases?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vitamins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fats",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamins"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which food is rich in carbohydrates?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vegetables",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which food is rich in proteins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Butter",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dal"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which nutrient keeps our body warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fats"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which food contains vitamins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "A diet containing all nutrients is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Junk diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Balanced diet",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heavy diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fatty diet",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Balanced diet"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in strong bones and teeth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Calcium",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamin C",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Calcium"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which mineral is needed to make blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Calcium",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Iron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sodium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Iron"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which nutrient gives us energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbohydrates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbohydrates"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in body growth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamins",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps to protect us from diseases?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vitamins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fats",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamins"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which food is rich in carbohydrates?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Eggs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vegetables",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which food is rich in proteins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Butter",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dal"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which nutrient keeps our body warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fats"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which food contains vitamins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "A diet containing all nutrients is called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Junk diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Balanced diet",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heavy diet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fatty diet",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Balanced diet"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps in strong bones and teeth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Calcium",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vitamin C",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Calcium"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which mineral is needed to make blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Calcium",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Iron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sodium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Iron"
+        }
+    ]
+}

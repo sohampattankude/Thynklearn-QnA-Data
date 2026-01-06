@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.42",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Man Who Cried Wolf"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main idea of the lesson? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It teaches an important life lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It talks about machines",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It explains science experiments",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It teaches mathematics",
+          "is_correct": false
+        }
+      ],
+      "answer": "It teaches an important life lesson"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which value is highlighted in the lesson? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Selfishness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Honesty and good behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed and anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Honesty and good behaviour"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do children learn from this lesson? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits and values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Complex rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Historical dates",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Difficult formulas",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits and values"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which activity is related to this lesson? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Repairing machines",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Driving vehicles",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading and understanding",
+          "is_correct": true
+        }
+      ],
+      "answer": "Reading and understanding"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What kind of text is this lesson? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Advertisement",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Story or poem",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Instruction manual",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story or poem"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which character is important in the lesson? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A machine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The main character",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "An object",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A building",
+          "is_correct": false
+        }
+      ],
+      "answer": "The main character"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the lesson encourage? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bad habits",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Disobedience",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Positive behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Positive behaviour"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should children understand from the story? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luck is everything",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mistakes don’t matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Actions have results",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rules are useless",
+          "is_correct": false
+        }
+      ],
+      "answer": "Actions have results"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word best describes the lesson? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Meaningful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Confusing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Irrelevant",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meaningful"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the lesson improve? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memory of numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thinking and understanding",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Physical strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thinking and understanding"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which skill is developed? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Driving skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mechanical skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading comprehension",
+          "is_correct": true
+        }
+      ],
+      "answer": "Reading comprehension"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What feeling does the lesson create? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Confusion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Interest in learning",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Interest in learning"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should students remember? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The moral of the lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only page numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only headings",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "The moral of the lesson"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which habit is encouraged? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Interrupting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Listening carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listening carefully"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the lesson mainly about? (Lesson: The Man Who Cried Wolf)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Advanced science",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Space travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ancient wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Everyday life experiences",
+          "is_correct": true
+        }
+      ],
+      "answer": "Everyday life experiences"
+    }
+  ]
+}

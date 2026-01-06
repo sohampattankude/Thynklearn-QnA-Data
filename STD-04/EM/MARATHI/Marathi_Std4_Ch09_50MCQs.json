@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.Marathi.09",
+        "standard": "4",
+        "subject": "Marathi",
+        "medium": "Marathi",
+        "chapter_name": "Chapter 9"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "या धड्याचा मुख्य विषय काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कथा/क्रिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "गणित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विज्ञान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कथा/क्रिया"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "या धड्यात कोणते मूल्य शिकवले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रामाणिकपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "हा धडा वाचताना काय शिकायला मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नैतिक मूल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संख्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नकाशे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नैतिक मूल्ये"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "या धड्याचा प्रकार कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कविता/कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पत्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कविता/कथा"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "हा धडा विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "करमणुकीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकूण विकासासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वाचनासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकूण विकासासाठी"
+        }
+    ]
+}

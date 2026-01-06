@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.24",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Are We Endangering Our Environment?"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "What does environment include?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Living and non-living things",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only humans",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Living and non-living things"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which activity harms the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Recycling waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cutting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saving water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cutting trees"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "What is pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty surroundings",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pure water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fresh food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dirty surroundings"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which type of pollution affects air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Smoke from vehicles",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plastic waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Loud music",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Smoke from vehicles"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which habit helps protect the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using plastic bags",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Planting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Burning waste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Planting trees"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Why should we save trees?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For shade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They give oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They drop leaves",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They give oxygen"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which waste can be recycled?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plastic"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "What causes water pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Throwing waste in water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boiling water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing waste in water"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which action saves electricity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving lights on",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Switching off lights when not needed",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Using many bulbs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wasting power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Switching off lights when not needed"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Protecting environment helps us to live?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Unhealthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Comfortably",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Happily and healthily",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Happily and healthily"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "What does environment include?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Living and non-living things",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only humans",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Living and non-living things"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which activity harms the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Recycling waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cutting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saving water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cutting trees"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "What is pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty surroundings",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pure water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fresh food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dirty surroundings"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which type of pollution affects air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Smoke from vehicles",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plastic waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Loud music",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Smoke from vehicles"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which habit helps protect the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using plastic bags",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Planting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Burning waste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Planting trees"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Why should we save trees?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For shade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They give oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They drop leaves",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They give oxygen"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which waste can be recycled?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plastic"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "What causes water pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Throwing waste in water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boiling water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing waste in water"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which action saves electricity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving lights on",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Switching off lights when not needed",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Using many bulbs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wasting power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Switching off lights when not needed"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Protecting environment helps us to live?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Unhealthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Comfortably",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Happily and healthily",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Happily and healthily"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "What does environment include?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Living and non-living things",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only humans",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Living and non-living things"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which activity harms the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Recycling waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cutting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saving water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cutting trees"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "What is pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty surroundings",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pure water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fresh food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dirty surroundings"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which type of pollution affects air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Smoke from vehicles",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plastic waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Loud music",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Smoke from vehicles"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which habit helps protect the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using plastic bags",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Planting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Burning waste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Planting trees"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Why should we save trees?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For shade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They give oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They drop leaves",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They give oxygen"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which waste can be recycled?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plastic"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "What causes water pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Throwing waste in water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boiling water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing waste in water"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which action saves electricity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving lights on",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Switching off lights when not needed",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Using many bulbs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wasting power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Switching off lights when not needed"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Protecting environment helps us to live?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Unhealthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Comfortably",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Happily and healthily",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Happily and healthily"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "What does environment include?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Living and non-living things",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only humans",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Living and non-living things"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which activity harms the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Recycling waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cutting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saving water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cutting trees"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "What is pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty surroundings",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pure water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fresh food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dirty surroundings"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which type of pollution affects air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Smoke from vehicles",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plastic waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Loud music",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Smoke from vehicles"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which habit helps protect the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using plastic bags",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Planting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Burning waste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Planting trees"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Why should we save trees?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For shade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They give oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They drop leaves",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They give oxygen"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which waste can be recycled?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plastic"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "What causes water pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Throwing waste in water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boiling water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing waste in water"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which action saves electricity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving lights on",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Switching off lights when not needed",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Using many bulbs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wasting power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Switching off lights when not needed"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Protecting environment helps us to live?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Unhealthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Comfortably",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Happily and healthily",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Happily and healthily"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "What does environment include?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Living and non-living things",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only humans",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Living and non-living things"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which activity harms the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Recycling waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cutting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saving water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cutting trees"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "What is pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty surroundings",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pure water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fresh food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dirty surroundings"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which type of pollution affects air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Smoke from vehicles",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plastic waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Loud music",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Smoke from vehicles"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which habit helps protect the environment?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using plastic bags",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Planting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Burning waste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Planting trees"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Why should we save trees?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For shade only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They give oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They drop leaves",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They give oxygen"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which waste can be recycled?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaves",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plastic"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "What causes water pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean rivers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Throwing waste in water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Boiling water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Throwing waste in water"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which action saves electricity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving lights on",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Switching off lights when not needed",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Using many bulbs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wasting power",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Switching off lights when not needed"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Protecting environment helps us to live?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Unhealthy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Comfortably",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Happily and healthily",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Carelessly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Happily and healthily"
+        }
+    ]
+}

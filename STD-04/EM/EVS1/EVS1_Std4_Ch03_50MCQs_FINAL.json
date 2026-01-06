@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.03",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Storage of Water"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why is water stored at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For daily use",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For playing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For washing cars only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For daily use"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which container is best for storing drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Open bucket",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Stored water should always be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covered",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Why should stored water be covered?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To make it cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent wastage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To stop germs and dust",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change taste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To stop germs and dust"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which of the following can contaminate stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flies",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Germs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which habit keeps stored water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Using dirty ladle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covering the container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covering the container"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which material container is safe for storing water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rusty iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty plastic",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean metal or plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken clay pot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean metal or plastic"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Why should water containers be cleaned regularly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove germs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To make water sweet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save space",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove germs"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which practice wastes stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Closing tap",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using water carefully",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaving tap open",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaving tap open"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which is the correct way to take out stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "With clean ladle",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "With hands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "With dirty cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "By shaking container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "With clean ladle"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Why is water stored at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For daily use",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For playing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For washing cars only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For daily use"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which container is best for storing drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Open bucket",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Stored water should always be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covered",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Why should stored water be covered?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To make it cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent wastage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To stop germs and dust",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change taste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To stop germs and dust"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which of the following can contaminate stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flies",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Germs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which habit keeps stored water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Using dirty ladle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covering the container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covering the container"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which material container is safe for storing water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rusty iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty plastic",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean metal or plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken clay pot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean metal or plastic"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Why should water containers be cleaned regularly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove germs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To make water sweet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save space",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove germs"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which practice wastes stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Closing tap",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using water carefully",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaving tap open",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaving tap open"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which is the correct way to take out stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "With clean ladle",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "With hands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "With dirty cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "By shaking container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "With clean ladle"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why is water stored at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For daily use",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For playing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For washing cars only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For daily use"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which container is best for storing drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Open bucket",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Stored water should always be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covered",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Why should stored water be covered?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To make it cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent wastage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To stop germs and dust",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change taste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To stop germs and dust"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which of the following can contaminate stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flies",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Germs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which habit keeps stored water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Using dirty ladle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covering the container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covering the container"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which material container is safe for storing water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rusty iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty plastic",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean metal or plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken clay pot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean metal or plastic"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Why should water containers be cleaned regularly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove germs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To make water sweet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save space",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove germs"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which practice wastes stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Closing tap",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using water carefully",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaving tap open",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaving tap open"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which is the correct way to take out stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "With clean ladle",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "With hands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "With dirty cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "By shaking container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "With clean ladle"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Why is water stored at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For daily use",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For playing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For washing cars only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For daily use"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which container is best for storing drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Open bucket",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Stored water should always be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covered",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Why should stored water be covered?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To make it cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent wastage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To stop germs and dust",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change taste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To stop germs and dust"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which of the following can contaminate stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flies",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Germs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which habit keeps stored water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Using dirty ladle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covering the container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covering the container"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which material container is safe for storing water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rusty iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty plastic",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean metal or plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken clay pot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean metal or plastic"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Why should water containers be cleaned regularly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove germs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To make water sweet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save space",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove germs"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which practice wastes stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Closing tap",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using water carefully",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaving tap open",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaving tap open"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which is the correct way to take out stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "With clean ladle",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "With hands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "With dirty cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "By shaking container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "With clean ladle"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Why is water stored at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For daily use",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For playing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For washing cars only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For daily use"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which container is best for storing drinking water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty pot",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Broken bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean covered container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Open bucket",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean covered container"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Stored water should always be kept?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covered",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covered"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Why should stored water be covered?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To make it cold",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To prevent wastage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To stop germs and dust",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "To change taste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To stop germs and dust"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which of the following can contaminate stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flies",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Germs",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which habit keeps stored water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Using dirty ladle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Covering the container",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Keeping it open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mixing old water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covering the container"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which material container is safe for storing water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rusty iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty plastic",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean metal or plastic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Broken clay pot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean metal or plastic"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Why should water containers be cleaned regularly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To look nice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To remove germs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To make water sweet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To save space",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To remove germs"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which practice wastes stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Closing tap",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using water carefully",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaving tap open",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaving tap open"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which is the correct way to take out stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "With clean ladle",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "With hands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "With dirty cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "By shaking container",
+                    "is_correct": false
+                }
+            ],
+            "answer": "With clean ladle"
+        }
+    ]
+}

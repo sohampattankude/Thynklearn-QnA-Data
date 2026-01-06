@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.19",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "My Delightful School"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why do children go to school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To play only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To learn",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To travel",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To learn"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Who teaches students in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Doctors",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopkeepers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Teachers"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which place is used for reading books in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Playground",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Library",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Canteen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Library"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which activity helps keep us fit at school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Studying",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playing games",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playing games"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which room is used for morning assembly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Classroom",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playground",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Office",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playground"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Who is the head of the school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Teacher",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Principal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Student",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Peon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Principal"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which habit should be followed in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fighting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Littering",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which facility helps students learn experiments?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laboratory",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ground",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Laboratory"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which place is used for eating lunch?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Classroom",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Canteen"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "School helps children to become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsible",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Why do children go to school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To play only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To learn",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To travel",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To learn"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Who teaches students in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Doctors",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopkeepers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Teachers"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which place is used for reading books in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Playground",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Library",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Canteen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Library"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which activity helps keep us fit at school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Studying",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playing games",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playing games"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which room is used for morning assembly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Classroom",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playground",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Office",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playground"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Who is the head of the school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Teacher",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Principal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Student",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Peon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Principal"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which habit should be followed in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fighting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Littering",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which facility helps students learn experiments?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laboratory",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ground",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Laboratory"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which place is used for eating lunch?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Classroom",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Canteen"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "School helps children to become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsible",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why do children go to school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To play only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To learn",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To travel",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To learn"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Who teaches students in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Doctors",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopkeepers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Teachers"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which place is used for reading books in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Playground",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Library",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Canteen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Library"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which activity helps keep us fit at school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Studying",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playing games",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playing games"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which room is used for morning assembly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Classroom",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playground",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Office",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playground"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Who is the head of the school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Teacher",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Principal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Student",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Peon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Principal"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which habit should be followed in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fighting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Littering",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which facility helps students learn experiments?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laboratory",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ground",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Laboratory"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which place is used for eating lunch?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Classroom",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Canteen"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "School helps children to become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsible",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Why do children go to school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To play only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To learn",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To travel",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To learn"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Who teaches students in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Doctors",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopkeepers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Teachers"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which place is used for reading books in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Playground",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Library",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Canteen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Library"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which activity helps keep us fit at school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Studying",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playing games",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playing games"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which room is used for morning assembly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Classroom",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playground",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Office",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playground"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Who is the head of the school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Teacher",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Principal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Student",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Peon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Principal"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which habit should be followed in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fighting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Littering",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which facility helps students learn experiments?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laboratory",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ground",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Laboratory"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which place is used for eating lunch?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Classroom",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Canteen"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "School helps children to become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsible",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Why do children go to school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To play only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To learn",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To travel",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To learn"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Who teaches students in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Parents",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Teachers",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Doctors",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shopkeepers",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Teachers"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which place is used for reading books in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Playground",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Library",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Canteen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Library"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which activity helps keep us fit at school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Studying",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playing games",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playing games"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which room is used for morning assembly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Classroom",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Playground",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Office",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Playground"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Who is the head of the school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Teacher",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Principal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Student",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Peon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Principal"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which habit should be followed in school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fighting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Littering",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Discipline"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which facility helps students learn experiments?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laboratory",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ground",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Laboratory"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which place is used for eating lunch?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Canteen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Classroom",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Canteen"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "School helps children to become?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rude",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Responsible",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Careless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lazy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Responsible"
+        }
+    ]
+}

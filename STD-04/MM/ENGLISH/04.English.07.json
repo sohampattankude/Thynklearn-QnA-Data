@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.07",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Raindrops"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "From where do raindrops fall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clouds",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Buildings",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Roads",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clouds"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which season brings rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rainy season",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rainy season"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What sound do raindrops make?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pitter-patter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bang",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Roar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clang",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pitter-patter"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How does rain help plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It helps them grow",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It dries them",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It burns them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It stops growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "It helps them grow"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What happens to the soil after rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It becomes wet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It cracks",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It burns",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It disappears",
+          "is_correct": false
+        }
+      ],
+      "answer": "It becomes wet"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What do farmers depend on rain for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Growing crops",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Driving cars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Building houses",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flying planes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Growing crops"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which thing fills rivers and lakes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rain",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dust",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rain"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What do children enjoy during rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Playing carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Touching fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running on roads",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Breaking things",
+          "is_correct": false
+        }
+      ],
+      "answer": "Playing carefully"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word describes rain sound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soft",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hard",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hot",
+          "is_correct": false
+        }
+      ],
+      "answer": "Soft"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happens when there is no rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drought occurs",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plants grow",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rivers overflow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weather cools",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drought occurs"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What do clouds carry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water drops",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sand",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Smoke",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dust",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water drops"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which activity needs rainwater?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Farming",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Painting walls",
+          "is_correct": false
+        }
+      ],
+      "answer": "Farming"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why is rain important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It supports life",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It causes harm only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It wastes water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It stops growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "It supports life"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What fills ponds after rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Smoke",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which season follows heavy rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green season",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dry season",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Snow season",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fire season",
+          "is_correct": false
+        }
+      ],
+      "answer": "Green season"
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.23",
+        "standard": "4",
+        "subject": "Environmental Studies – Part 1",
+        "medium": "English",
+        "chapter_name": "Natural Disasters"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Which of the following is a natural disaster?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Accident",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fireworks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Traffic jam",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Earthquake"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "An earthquake is caused by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heavy rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Movement of the earth’s plates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Strong winds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Flooding",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Movement of the earth’s plates"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is caused by heavy rainfall?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flood",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Volcano",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Flood"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which disaster occurs due to lack of rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earthquake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drought"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which disaster involves strong winds and heavy rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Landslide",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cyclone"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which area is most affected during floods?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Highlands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "River banks",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mountains",
+                    "is_correct": false
+                }
+            ],
+            "answer": "River banks"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "What should we do during an earthquake?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Run outside immediately",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stand near windows",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Take shelter under a table",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Use lift",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Take shelter under a table"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which service helps during natural disasters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Post office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Police and rescue teams",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "School",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Market",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Police and rescue teams"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is related to fire from the earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Volcano",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cyclone",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Volcano"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Why are natural disasters dangerous?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "They are noisy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They cause loss of life and property",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They are rare",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They happen slowly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They cause loss of life and property"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which of the following is a natural disaster?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Accident",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fireworks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Traffic jam",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Earthquake"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "An earthquake is caused by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heavy rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Movement of the earth’s plates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Strong winds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Flooding",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Movement of the earth’s plates"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is caused by heavy rainfall?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flood",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Volcano",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Flood"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which disaster occurs due to lack of rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earthquake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drought"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which disaster involves strong winds and heavy rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Landslide",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cyclone"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which area is most affected during floods?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Highlands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "River banks",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mountains",
+                    "is_correct": false
+                }
+            ],
+            "answer": "River banks"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "What should we do during an earthquake?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Run outside immediately",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stand near windows",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Take shelter under a table",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Use lift",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Take shelter under a table"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which service helps during natural disasters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Post office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Police and rescue teams",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "School",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Market",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Police and rescue teams"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is related to fire from the earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Volcano",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cyclone",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Volcano"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Why are natural disasters dangerous?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "They are noisy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They cause loss of life and property",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They are rare",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They happen slowly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They cause loss of life and property"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which of the following is a natural disaster?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Accident",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fireworks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Traffic jam",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Earthquake"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "An earthquake is caused by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heavy rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Movement of the earth’s plates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Strong winds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Flooding",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Movement of the earth’s plates"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is caused by heavy rainfall?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flood",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Volcano",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Flood"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which disaster occurs due to lack of rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earthquake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drought"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which disaster involves strong winds and heavy rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Landslide",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cyclone"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which area is most affected during floods?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Highlands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "River banks",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mountains",
+                    "is_correct": false
+                }
+            ],
+            "answer": "River banks"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "What should we do during an earthquake?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Run outside immediately",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stand near windows",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Take shelter under a table",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Use lift",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Take shelter under a table"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which service helps during natural disasters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Post office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Police and rescue teams",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "School",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Market",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Police and rescue teams"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is related to fire from the earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Volcano",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cyclone",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Volcano"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Why are natural disasters dangerous?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "They are noisy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They cause loss of life and property",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They are rare",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They happen slowly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They cause loss of life and property"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which of the following is a natural disaster?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Accident",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fireworks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Traffic jam",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Earthquake"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "An earthquake is caused by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heavy rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Movement of the earth’s plates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Strong winds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Flooding",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Movement of the earth’s plates"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is caused by heavy rainfall?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flood",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Volcano",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Flood"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which disaster occurs due to lack of rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earthquake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drought"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which disaster involves strong winds and heavy rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Landslide",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cyclone"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which area is most affected during floods?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Highlands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "River banks",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mountains",
+                    "is_correct": false
+                }
+            ],
+            "answer": "River banks"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "What should we do during an earthquake?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Run outside immediately",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stand near windows",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Take shelter under a table",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Use lift",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Take shelter under a table"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which service helps during natural disasters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Post office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Police and rescue teams",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "School",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Market",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Police and rescue teams"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is related to fire from the earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Volcano",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cyclone",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Volcano"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Why are natural disasters dangerous?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "They are noisy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They cause loss of life and property",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They are rare",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They happen slowly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They cause loss of life and property"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which of the following is a natural disaster?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Accident",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fireworks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Traffic jam",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Earthquake"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "An earthquake is caused by?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heavy rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Movement of the earth’s plates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Strong winds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Flooding",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Movement of the earth’s plates"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is caused by heavy rainfall?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Flood",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Volcano",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Flood"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which disaster occurs due to lack of rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Earthquake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drought"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which disaster involves strong winds and heavy rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cyclone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drought",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Landslide",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cyclone"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which area is most affected during floods?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Highlands",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "River banks",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Deserts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mountains",
+                    "is_correct": false
+                }
+            ],
+            "answer": "River banks"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "What should we do during an earthquake?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Run outside immediately",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stand near windows",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Take shelter under a table",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Use lift",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Take shelter under a table"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "Which service helps during natural disasters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Post office",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Police and rescue teams",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "School",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Market",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Police and rescue teams"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which natural disaster is related to fire from the earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Flood",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthquake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Volcano",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cyclone",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Volcano"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Why are natural disasters dangerous?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "They are noisy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "They cause loss of life and property",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "They are rare",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "They happen slowly",
+                    "is_correct": false
+                }
+            ],
+            "answer": "They cause loss of life and property"
+        }
+    ]
+}
